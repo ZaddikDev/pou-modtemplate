@@ -1,1 +1,1 @@
-# pou-modtemplate
+# Pou Mod template
